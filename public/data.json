@@ -1,0 +1,157 @@
+[
+  {
+    "_id": "623e11a6b12112b2b5b352a7",
+    "name": "Lenovo IdeaPad Flex 5i 11th Gen Core i3 Laptop",
+    "img": "https://www.globalbrand.com.bd/image/cache/catalog/Lenovo%20Laptop/Lenovo-IdeaPad-Flex-5i-(-82HS0130IN)-11th-Gen-Core-i3-Laptop-500x500.jpg",
+    "features": [
+      "Processor: Intel Core i3-1115G4",
+      "Memory: 8GB Soldered DDR4-3200",
+      "Storage: 256GB SSD M.2 2242 PCIe 3.0x4 NVMe",
+      "Graphics: Intel UHD Graphics",
+      "Display: 14 FHD (1920x1080) IPS 250nits Glossy, 45% NTSC"
+    ],
+    "price": "75,000"
+  },
+  {
+    "_id": "623e151ce7d71bea0b0094a8",
+    "name": "Lenovo IdeaPad 3 15ITL6 11th Gen Core-i5 Laptop",
+    "img": "https://www.globalbrand.com.bd/image/cache/catalog/Lenovo%20Laptop/IdeaPad-Gaming-3-500x500.jpg",
+    "features": [
+      "CPU: 11th Gen Core-i5",
+      "RAM: 8GB Soldered DDR4",
+      "Storage: 512GB SSD",
+      "Graphics: GeForce RTX 3050 2GB GDDR6",
+      "Display: 15.6-Inch"
+    ],
+    "price": "111,000"
+  },
+  {
+    "_id": "623e151c6e1f59f0b627c3ed",
+    "name": "Lenovo IdeaPad 3 15ITL6 11th Gen Core-i5 Laptop",
+      "img": "https://www.globalbrand.com.bd/image/cache/catalog/Lenovo%20Laptop/lenovo-ideapad-slim-3i-14-arctic-grey-2-250x250.jpg",
+      "features": [
+          "CPU: 11th Gen Core-i5",
+          "RAM: 8GB Soldered DDR4",
+          "Storage: 512GB SSD",
+          "Graphics: GeForce MX350 2GB GDDR5",
+          "Display: 15.6-Inch"
+      ],
+      "price": "76,000"
+  },
+  {
+    "_id": "623e151c3c1b89f3eac41857",
+    "name": "Lenovo ThinkPad L14 Gen-2 11th Gen Core-i5 Business Laptop",
+      "img": "https://www.globalbrand.com.bd/image/cache/catalog/Lenovo%20Laptop/ThinkPad-L14-Gen-2-250x250.jpg",
+      "features": [
+          "Processor: 11th Gen Core-i5",
+          "Memory: 8GB DDR4",
+          "Storage: 512GB SSD",
+          "Graphics: Intel Iris Xe",
+          "Display: 14.0-Inch"
+      ],
+      "price": "57,000"
+  },
+  {
+    "_id": "623e151c0216db4e6ca4d3e4",
+    "name": "Apple MacBook Air 2020 Silicon Series - 256 GB",
+      "img": "https://www.globalbrand.com.bd/image/cache/catalog/Apple%20Macbook/Apple-MacBook-AIR-2020-Silicon-Series-256-GB-2-500x500.jpg",
+      "features": [
+          "Memory: 8GB unified",
+          "Storage: 256GB SSD",
+          "Graphics: 7-core GPU",
+          "Display: 14 FHD (1920x1080) IPS 250nits Glossy, 45% NTSC"
+      ],
+      "price": "99,990"
+  },
+  {
+    "_id": "623e151c50281d86167db607",
+    "name": "Lenovo IdeaPad Slim 3i 10th Gen Core-i3 Laptop",
+      "img": "https://www.globalbrand.com.bd/image/cache/catalog/Lenovo%20Laptop/Lenovo-Ideapad-Slim-3i-Grey-2-500x500.jpg",
+      "features": [
+          "Processor: 10th Gen Core i3",
+          "Memory: 4GB DDR4",
+          "Storage: 256GB M.2 NVMe SSD",
+          "IGPU: Intel UHD",
+          "Display: 15.6-inch"
+      ],
+      "price": "46,000"
+  },
+  {
+    "_id": "623e151c64911231343786f5",
+    "name": "Lenovo Yoga Slim 7i Pro 11th Gen Core-i7 Laptop",
+      "img": "https://www.globalbrand.com.bd/image/cache/catalog/Lenovo%20Laptop/Yoga-Slim-7-Pro-500x500.jpg",
+      "features": [
+          "Processor: 11th Gen Core-i7",
+          "Memory: 16GB Soldered LPDDR4x",
+          "Storage: 512GB SSD",
+          "Graphics: Intel Iris Xe",
+          "Display: 14.0-Inch"
+      ],
+      "price": "137,000"
+  },
+  {
+    "_id": "623e151c488989a9a3322f3a",
+    "name": "LENOVO IdeaPad Flex 5i 11TH Gen Core i7 Convertible Laptop",
+      "img": "https://www.globalbrand.com.bd/image/cache/catalog/Lenovo%20Laptop/IdeaPad-Flex-5-500x500.jpg",
+      "features": [
+          "CPU: 11TH Gen Core-i7",
+          "RAM: 16GB Soldered DDR4",
+          "Storage: 512GB SSD",
+          "Graphics: GeForce MX450 2GB GDDR6",
+          "Display: 14.0-Inch"
+      ],
+      "price": "118,000"
+  },
+  {
+    "_id": "623e151cf0aa10cc1f812cee",
+    "name": "Dell Latitude 3420 10th Gen Core-i3 Laptop",
+      "img": "https://www.globalbrand.com.bd/image/cache/catalog/Dell%20Laptop/Latitude-3420-Laptop-500x500.jpg",
+      "features": [
+          "Processor: 10th Gen Core-i3",
+          "Memory: 4GB DDR4",
+          "Storage: 1TB HDD",
+          "Graphics: Intel UHD",
+          "Display: 14.0-Inch"
+      ],
+      "price": "75,000"
+  },
+  {
+    "_id": "623e151c1c192525fd400771",
+    "name": "Lenovo IdeaPad Gaming 3i 11TH Gen Core i5 Laptop",
+      "img": "https://www.globalbrand.com.bd/image/cache/catalog/Lenovo%20Laptop/IdeaPad-Gaming-3-500x500.jpg",
+      "features": [
+          "CPU: 11TH Gen Core-i5",
+          "RAM: 8GB SO-DIMM DDR4",
+          "Storage: 256GB SSD + 1TB HDD",
+          "Graphics: GeForce GTX 1650 4GB GDDR6",
+          "Display: 15.6-Inch"
+      ],
+      "price": "96,000"
+  },
+  {
+    "_id": "623e151c015be23c0541ddf6",
+    "name": "Lenovo YOGA 7 11th Gen Core-i7 Touch Ultrabook",
+      "img": "https://www.globalbrand.com.bd/image/cache/catalog/Lenovo%20Laptop/Lenovo-YOGA-7-500x500.jpg",
+      "features": [
+          "CPU: 11th Gen Core i7",
+          "RAM: 16GB DDR4",
+          "Storage: 1TB NVME GB SSD",
+          "Graphics: Intel Iris Xe",
+          "Display: 14.0-inch"
+      ],
+      "price": "142,000"
+  },
+  {
+    "_id": "623e151c7a1e00e8b954e33f",
+    "name": "Lenovo IdeaPad Slim 5i 11th Gen Core-i5 Laptop",
+      "img": "https://www.globalbrand.com.bd/image/cache/catalog/Lenovo%20Laptop/Lenovo-IdeaPad-Slim-5i-Grey-500x500.jpg",
+      "features": [
+          "CPU: 11th Gen Core i5",
+          "RAM: 8GB DDR4",
+          "Storage: 1TB HDD + 256 GB NVME SSD",
+          "Graphics: GeForce MX450 2GB GDDR6",
+          "Display: 15.6-inch"
+      ],
+      "price": "72,000"
+  }
+]
