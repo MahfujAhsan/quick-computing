@@ -1,0 +1,31 @@
+.cart{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.cart-info img{
+    border: 2px solid #290242;
+    width: 50px;
+    border-radius: 15px;
+}
+.cart-info h6{
+    font-size: 12px;
+    padding: 0px 15px 0px 15px;
+}
+
+.cart-info{
+    display: flex;
+    align-items: center;
+}
+
+.delete-icon{
+    font-size: 22px;
+    border: none;
+    background-color: #290242;
+    color: #fff;
+    padding: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+}

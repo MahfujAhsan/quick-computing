@@ -43,7 +43,7 @@
 @media screen and (max-width: 480px) {
     .product{
         width: 400px;
-        height: 800px;
+        height: 600px;
         margin: auto;
     }
     .cart-btn{
