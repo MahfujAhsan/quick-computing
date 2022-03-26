@@ -8,16 +8,19 @@ const Shop = () => {
         fetch('data.json')
         .then(res => res.json())
         .then(data => setProducts(data))
-    }, [])
+    }, []);
+    const cartClickHandler = (product) => {
+        console.log(product)
+    }
     return (
         <div className='shop-container'>
             <div className="products-container">
                 {
-                    products.map(product => <Product product={product}/>)
+                    products.map(product => <Product key={product._id} product={product} click={cartClickHandler}/>)
                 }
             </div>
             <div className="cart-container">
-                <h4>HeY</h4>
+                <h4>Selected Products</h4>
             </div>
         </div>
     );

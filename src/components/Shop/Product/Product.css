@@ -16,6 +16,7 @@
     font-size: 18px;
 }
 .cart-btn{
+    font-size: 18px;
     width: 100%;
     border: none;
     position: absolute;
@@ -25,6 +26,13 @@
     font-family: 'Gill Sans';
     font-weight: 700;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart-btn p{
+    margin-right: 15px;
 }
 
 .cart-btn:hover{

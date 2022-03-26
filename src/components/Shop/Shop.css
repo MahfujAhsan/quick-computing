@@ -1,6 +1,6 @@
 .shop-container{
     display: grid;
-    grid-template-columns: 3fr 2fr;
+    grid-template-columns: 5fr 2fr;
     gap: 20px;
     width: 90%;
     margin: auto;
@@ -12,6 +12,10 @@
     text-align: center;
     border: 2px solid #FBB73F;
     border-radius: 8px;
+    font-size: 22px;
+    font-family: 'Gill Sans';
+    text-transform: uppercase;
+    height: 100vh;
 }
 
 .products-container{
