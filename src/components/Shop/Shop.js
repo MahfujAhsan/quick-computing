@@ -14,12 +14,16 @@ const Shop = () => {
     const cartClickHandler = (product) => {
         const newCart = [...cart, product];
         setCart(newCart);
+        if(newCart.length === 5) {
+            setCart(cart);
+            alert("You Cann't Add More Then 4 Products")
+        }
     }
     const randomClickHandler = (cart) => {
-            for(let i = 0; i < cart.length; i++) {
-                var randomElement = cart[Math.floor(Math.random()*cart.length)];
-            }
-            console.log(randomElement)
+        const randomElement = cart[Math.floor(Math.random() * cart.length)];
+        if(randomElement) {
+            alert(randomElement.name)
+        }
     }
     const deleteClickHandler = () => {
         setCart([])
