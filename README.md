@@ -1,4 +1,4 @@
 # Quick Computing
 
-# [Private Repo Link:](https://github.com/facebook/create-react-app.)
-# Click Here: https://github.com/facebook/create-react-app.
+# [Private Repo Link:](https://quick-computing.netlify.app/)
+# Click Here: https://quick-computing.netlify.app/
