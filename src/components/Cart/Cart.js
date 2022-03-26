@@ -8,8 +8,8 @@ const Cart = ({cart}) => {
     return (
         <div className='cart'>
             <div className="cart-info">
-                    <img src={img} alt="" />
-                    <h6>{name}</h6>
+                <img src={img} alt="" />
+                <h6>{name}</h6>
             </div>
             <button className='delete-icon'><FontAwesomeIcon icon={faTrash} /></button>
         </div>

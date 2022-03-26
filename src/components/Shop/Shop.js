@@ -8,12 +8,18 @@ const Shop = () => {
     const [cart, setCart] = useState([]);
     useEffect(() => {
         fetch('data.json')
-        .then(res => res.json())
-        .then(data => setProducts(data))
+            .then(res => res.json())
+            .then(data => setProducts(data))
     }, []);
     const cartClickHandler = (product) => {
         const newCart = [...cart, product];
         setCart(newCart);
+    }
+    const randomClickHandler = (cart) => {
+            for(let i = 0; i < cart.length; i++) {
+                var randomElement = cart[Math.floor(Math.random()*cart.length)];
+            }
+            console.log(randomElement)
     }
     const deleteClickHandler = () => {
         setCart([])
@@ -22,7 +28,7 @@ const Shop = () => {
         <div className='shop-container'>
             <div className="products-container">
                 {
-                    products.map(product => <Product key={product._id} product={product} click={cartClickHandler}/>)
+                    products.map(product => <Product key={product._id} product={product} click={cartClickHandler} />)
                 }
             </div>
             <div className="cart-container">
@@ -30,10 +36,9 @@ const Shop = () => {
                 {
                     cart.map(cart => <Cart key={cart._id} cart={cart} />)
                 }
-                <button className='choose-btn'>Choose One For Me</button>
+                <button onClick={() => {randomClickHandler(cart)}} className='choose-btn'>Choose One For Me</button>
                 <button onClick={deleteClickHandler} className='reset-btn'>Choose Again</button>
-
-            </div>                   
+            </div>
         </div>
     );
 };
